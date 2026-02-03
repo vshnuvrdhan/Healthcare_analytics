@@ -6,7 +6,7 @@
 This project focuses on end-to-end healthcare data analytics, covering data acquisition, cleaning, exploratory analysis, and predictive modeling.
 The goal is to extract actionable insights from healthcare data and build a data-driven foundation for decision-making.
 
-The notebook is structured in a production-style analytical workflow, similar to how real analytics projects are executed in industry.
+The notebook is structured in a production-style analytical workflow.
 
 🛠️ Tools & Technologies
 
@@ -93,7 +93,7 @@ Converted raw analysis into business-relevant insights
 
 Feature selection
 
-Feature scaling (if required)
+Feature scaling
 
 Train-test split
 
@@ -126,13 +126,3 @@ Meaningful exploratory insights
 Predictive model to support healthcare decision-making
 
 Structured analytical workflow suitable for real-world projects
-
-🎯 Use Cases
-
-Healthcare performance analysis
-
-Patient outcome prediction
-
-Operational and clinical decision support
-
-Academic and portfolio project
